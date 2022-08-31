@@ -1,0 +1,14 @@
+[
+    [
+        "amountFormatter", "value: string, options: Partial<IAmountFormatterOptions> = DEFAULT_FORMATTER_OPTIONS",
+        "Format amount string value"
+    ],
+    [
+        "trimTailingZeros", "value: string",
+        "Remove tailing zeros from amount string"
+    ],
+    [
+        "amountPrettier", "value: string, maxFractionLength: number = 6",
+        "Prettify amount string value"
+    ]
+]
