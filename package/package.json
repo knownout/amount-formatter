@@ -1,6 +1,6 @@
 {
     "name": "@knownout/amount-formatter",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "Alexandr <re-knownout> knownout@hotmail.com",
     "license": "AGPL-3.0",
     "description": "Functions for formatting numbers",
@@ -26,5 +26,8 @@
     "bugs": {
         "url": "https://github.com/re-knownout/amount-formatter/issues"
     },
-    "homepage": "https://github.com/re-knownout/amount-formatter#readme"
+    "homepage": "https://github.com/re-knownout/amount-formatter#readme",
+    "dependencies": {
+        "bignumber.js": "^9.1.0"
+    }
 }
