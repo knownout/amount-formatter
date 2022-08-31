@@ -1,4 +1,4 @@
-# 🧱 Utility functions library
+# 🧱 Amount formatting functions
 
 This project is a set of functions for formatting numbers that reflect the amount of something (in monetary terms)
 equivalent.

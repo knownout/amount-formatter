@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "author": "Alexandr <re-knownout> knownout@hotmail.com",
     "license": "AGPL-3.0",
-    "description": "Functions for formatting numbers",
+    "description": "Amount formatting functions",
     "scripts": {
         "serve": "webpack-dev-server --config webpack.config.js",
         "build:package": "webpack --config webpack.package.js"
